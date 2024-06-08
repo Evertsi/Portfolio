@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-<img src="./assets/Portfolio.png" alt="Portfolio Everton Souza"
+![Portfolio](https://drive.google.com/file/d/1ymhE8ZBMUGu-bOQDEgtrXOg-XvdzQ3mL/view?usp=sharing)
 
 ## Ferramentas utilizadas:
 
