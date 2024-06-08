@@ -112,7 +112,7 @@ body {
     background-color: var(--cor-hover);
 }
 .apresentacao__imagem {
-    width: 50%;
+    width: 70%;
 }
 .Rodape {
     padding: 24px;
@@ -130,6 +130,7 @@ body {
     }
     .cabecalho__menu {
         justify-content: center;
+        gap: 30px;
     }
     .apresentacao {
         flex-direction: column-reverse;
@@ -138,5 +139,4 @@ body {
     .apresentação__conteudo {
         width: auto;
     }
-    
 }

@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-<img src="./assets/Portfolio.png" alt="Portfolio Everton Souza"
+![Portfolio](https://github.com/Evertsi/Portfolio/blob/main/assets/Portfolio.png)
 
 ## Ferramentas utilizadas:
 
