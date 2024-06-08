@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![Portfolio](https://drive.google.com/file/d/1ymhE8ZBMUGu-bOQDEgtrXOg-XvdzQ3mL/view?usp=sharing)
+![Portfolio](https://drive.google.com/file/d/1ymhE8ZBMUGu-bOQDEgtrXOg-XvdzQ3mL/view?usp=drive_link)
 
 ## Ferramentas utilizadas:
 
